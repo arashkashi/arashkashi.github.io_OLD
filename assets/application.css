@@ -219,7 +219,7 @@ footer {
     line-height: 1.2em
 }
 
-.clearfix:after {
+.clearfix::after {
     content: "";
     display: table;
     clear: both
